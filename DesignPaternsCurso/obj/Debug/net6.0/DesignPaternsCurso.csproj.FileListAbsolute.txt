@@ -1,0 +1,15 @@
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\bin\Debug\net6.0\DesignPaternsCurso.exe
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\bin\Debug\net6.0\DesignPaternsCurso.deps.json
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\bin\Debug\net6.0\DesignPaternsCurso.runtimeconfig.json
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\bin\Debug\net6.0\DesignPaternsCurso.dll
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\bin\Debug\net6.0\DesignPaternsCurso.pdb
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\DesignPaternsCurso.csproj.AssemblyReference.cache
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\DesignPaternsCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\DesignPaternsCurso.AssemblyInfoInputs.cache
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\DesignPaternsCurso.AssemblyInfo.cs
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\DesignPaternsCurso.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\DesignPaternsCurso.dll
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\refint\DesignPaternsCurso.dll
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\DesignPaternsCurso.pdb
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\DesignPaternsCurso.genruntimeconfig.cache
+C:\Users\eduardo.cordeiro\Documents\Cursos Alura\DesignPaternsCurso\DesignPaternsCurso\obj\Debug\net6.0\ref\DesignPaternsCurso.dll
